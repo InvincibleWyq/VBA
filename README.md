@@ -3,8 +3,9 @@
 Undergraduate Thesis
 [Download](./Understanding_Few-shot_Video_with_Pretrained_Image-Text_Models.pdf)
 
-
 Title: Understanding Few-shot Video with Pretrained Image-Text Models
+
+Advisor: [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en), [Yansong Tang](https://andytang15.github.io/)
 
 ![VBA](resources/overall_intro.png)
 
