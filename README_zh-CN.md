@@ -1,6 +1,7 @@
 # 视频旁路聚合器（Video Bypass Aggregator, VBA）
 
 学士学位论文
+[下载](./Understanding_Few-shot_Video_with_Pretrained_Image-Text_Models.pdf)
 
 标题：基于图文对预训练权重的小样本视频理解
 

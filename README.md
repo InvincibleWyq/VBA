@@ -1,6 +1,8 @@
 # Video Bypass Aggregator (VBA)
 
 Undergraduate Thesis
+[Download](./Understanding_Few-shot_Video_with_Pretrained_Image-Text_Models.pdf)
+
 
 Title: Understanding Few-shot Video with Pretrained Image-Text Models
 
