@@ -5,7 +5,7 @@
 
 标题：基于图文对预训练权重的小样本视频理解
 
-Advisor: [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en), [Yansong Tang](https://andytang15.github.io/)
+Advisor: [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en-US), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en), [Yansong Tang](https://andytang15.github.io/)
 
 ![VBA](resources/overall_intro.png)
 
