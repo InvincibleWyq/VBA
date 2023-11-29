@@ -5,7 +5,7 @@ Undergraduate Thesis
 
 Title: Understanding Few-shot Video with Pretrained Image-Text Models
 
-Advisor: [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en), [Yansong Tang](https://andytang15.github.io/)
+Advisor: [Jiwen Lu](https://scholar.google.com/citations?user=TN8uDQoAAAAJ&hl=en-US), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en), [Yansong Tang](https://andytang15.github.io/)
 
 ![VBA](resources/overall_intro.png)
 
