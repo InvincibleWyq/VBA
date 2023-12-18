@@ -1,5 +1,7 @@
 # Video Bypass Aggregator (VBA)
 
+[中文](./README_zh-CN.md)
+
 Undergraduate Thesis
 [Download](./Understanding_Few-shot_Video_with_Pretrained_Image-Text_Models.pdf)
 
